@@ -1,0 +1,70 @@
+h1 {
+    font-family: 'Lexend Peta', sans-serif;
+    font-family: 'Satisfy', cursive;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #4c6dff;
+}
+
+header {
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+nav {
+    background-color: #ffffff;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-family: 'Lexend Peta', sans-serif;
+    font-family: 'Satisfy', cursive;
+}
+
+p{
+    text-align:center;
+}
+
+section{
+    color: rgb(0, 0, 0);
+}
+
+h2{
+    text-align: center;
+    background-color: #0c1322;
+    color: #fff;
+}
+
+img {
+    height: 200px; /* Establece la altura deseada */
+    width: auto;   /* Esto ajustará automáticamente el ancho para mantener la proporción */
+    
+}
+ li{
+    text-align:center
+    ;
+ }
+
+ ul{
+    text-align: end;
+ }
+ 
